@@ -1,0 +1,5 @@
+com\futbolfanatic\user_service\service\UserService.class
+com\futbolfanatic\user_service\repository\UserRepository.class
+com\futbolfanatic\user_service\UserServiceApplication.class
+com\futbolfanatic\user_service\controller\UserController.class
+com\futbolfanatic\user_service\model\User.class
